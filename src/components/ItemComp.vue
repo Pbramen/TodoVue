@@ -4,7 +4,7 @@ import { ref } from 'vue'
         setup() {
             const date = ref("testing")
             const description = ref("nothing to see here...")
-            const list = ref({name:"legoshi's long scholong dong up my boy pussy", descript:"pokemon"})
+            const list = ref({name:"todo item here", descript:"pokemon"})
 
             return { 
                 date,
