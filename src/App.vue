@@ -23,7 +23,7 @@ const todoItems = ref({})
 
 <style>
   .wrapper{
-    align-self:flex-start;
+    align-self:flex-end;
     margin-right: 50px;
   }
   .hztl-wrapper{
